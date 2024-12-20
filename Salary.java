@@ -5,7 +5,7 @@
 
 /**
  *
- * @author User
+ * @author LAB203_53
  */
 import java.util.*;
 public class Salary {
